@@ -1,9 +1,5 @@
 {
   "rewrites": [
-    {
-      "source": "/help",
-      "destination": "https://chatbase.co/BFo4OWFE65de26hmQIPoD/help"
-    }
+    { "source": "/help", "destination": "/help.html" }
   ]
 }
-
